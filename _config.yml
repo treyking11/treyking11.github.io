@@ -7,7 +7,7 @@ gems:
 # Site settings
 title: "I Bleed Cheese"
 description: > # this means to ignore newlines until "email:"
-   Just insignificant chatter...
+   Insignificant chatter...
 
 email: a-mail@mail.mail
 #blog logo
@@ -15,8 +15,8 @@ logo: "/assets/images/df_logo.jpg"
 # blog cover
 cover: "/assets/images/Lambeau.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+name: 'Trey King'
+author: 'Trey King'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
