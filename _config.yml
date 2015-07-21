@@ -13,13 +13,13 @@ description: > # this means to ignore newlines until "email:"
 
 email: a-mail@mail.mail
 #blog logo
-logo: "/assets/images/cheddar2.jpg"
+logo: "/assets/images/wisconsin.jpg"
 # blog cover
 cover: "/assets/images/Lambeau.jpg"
 
 name: 'Trey King'
 author: 'Trey King'
-author_image: "/assets/images/author.jpg"
+author_image: "/assets/images/cheddar2.jpg"
 
 paginate:	5
 
