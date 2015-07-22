@@ -9,11 +9,11 @@ gems:
 title: "I Bleed Cheese"
 image: "/assets/images/logo.jpg"
 description: > # this means to ignore newlines until "email:"
-   Insignificant chatter...
+   Go Pack Or Go Home...
 
 email: a-mail@mail.mail
 #blog logo
-logo: "/assets/images/wisconsin.jpg"
+logo: "/assets/images/gblogo.jpg"
 # blog cover
 cover: "/assets/images/Lambeau.jpg"
 
@@ -42,12 +42,12 @@ social:
 #    share_title: ?t=
 #    share_link: "&amp;u="
 
-  - icon:	github
-    url:	https://github.com/treyking11
-    desc:	Fork me on github
-    share_url:
-    share_title:
-    share_link:
+#  - icon:	github
+#    url:	https://github.com/treyking11
+#    desc:	Fork me on github
+#    share_url:
+#    share_title:
+#    share_link:
 
 #  - icon:	google-plus
 #    url:	https://google.com/???
