@@ -1,1 +1,1 @@
-this is a jekyll powered blog site i am rebuilding from my wordpress site that i have been using for the last couple of years. i am a green bay packers fan and the site will feature all of my mindless ramblings...  will be live soon!
+this is a jekyll powered blog site i am rebuilding from my wordpress site that i have been using for the last couple of years. i am a green bay packers fan and the site will feature all of my mindless ramblings...  site is live at ibleedcheese.com!
