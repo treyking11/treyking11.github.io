@@ -73,8 +73,8 @@ task :post do
     # post.puts "{% include JB/setup %}"
   end
   # make folder in assets article_images with filename
-  # puts "Creating directory: /assets/article_images/#{date}-#{slug}"
-  # Dir.mkdir(Dir.pwd+"/assets/article_images/#{date}-#{slug}")
+  puts "Creating directory: /assets/article_images/#{date}-#{slug}"
+  Dir.mkdir(Dir.pwd+"/assets/article_images/#{date}-#{slug}")
 end # task :post
 
 # Usage: rake page name="about.html"

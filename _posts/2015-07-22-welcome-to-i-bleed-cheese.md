@@ -3,7 +3,7 @@ layout: post
 title: "Welcome to 'I Bleed Cheese'"
 description: ""
 category: 
-tags: []
+tags: [featured]
 date: 2015-07-22
 image: /assets/images/lambeauschematic.jpg
 ---
