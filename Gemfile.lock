@@ -155,6 +155,7 @@ DEPENDENCIES
   github-pages
   jekyll-assets
   jekyll-feed
+  jekyll-sitemap
   rack
   rack-rewrite
 

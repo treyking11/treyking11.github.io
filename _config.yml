@@ -4,6 +4,7 @@ highlighter: pygments
 gems:
   - jemoji
   - jekyll-feed
+  - jekyll-sitemap
   
 # Site settings
 title: "I Bleed Cheese"
