@@ -5,7 +5,8 @@ gems:
   - jemoji
   - jekyll-feed
   - jekyll-sitemap
-  
+  - jekyll-paginate
+
 # Site settings
 title: "I Bleed Cheese"
 image: "/assets/images/logo.jpg"
